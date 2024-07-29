@@ -7,7 +7,7 @@ Data encoding is: Windows-1252
 handling problems in data
 
 1- a lot of missing values
-Drop columns with too large number of missing values /n
+Drop columns with too large number of missing values \
 2- There are 0 in month and day columns
 Replace 0 with mode value
 3- Unnecessary columns
