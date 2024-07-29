@@ -20,10 +20,10 @@ lower)\
 6- Rename columns\
 7-check If data contains duplicates\
 ## Data analysis and visualization
-Libraries:
-numpy
-Pandas
-seaborn
+Libraries:\
+numpy\
+Pandas\
+seaborn\
 matplotlib\
 ![6-1](https://github.com/user-attachments/assets/3fe2b116-c7f5-4004-b103-5dabbac4bd9e)
 ![8-1](https://github.com/user-attachments/assets/6c0174ac-45ff-4d94-a36f-b473f5935a11)
