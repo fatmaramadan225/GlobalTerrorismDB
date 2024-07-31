@@ -9,7 +9,7 @@ handling problems in data
 1- a lot of missing values
 Drop columns with too large number of missing values \
 2- There are 0 in month and day columns \
-Replace 0 with mode value
+Replace 0 with mode value\
 3- Unnecessary columns\
 Delete unnecessary columns
 4- Data types\
