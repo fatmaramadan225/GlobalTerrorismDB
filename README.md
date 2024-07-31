@@ -11,7 +11,7 @@ Drop columns with too large number of missing values \
 2- There are 0 in month and day columns \
 Replace 0 with mode value\
 3- Unnecessary columns\
-Delete unnecessary columns
+Delete unnecessary columns\
 4- Data types\
 Change datatypes\
 5- Fromat\
