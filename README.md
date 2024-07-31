@@ -24,7 +24,7 @@ lower)\
 numpy\
 Pandas\
 seaborn\
-matplotlib\
+matplotlib
 #### charts
 ![6-1](https://github.com/user-attachments/assets/3fe2b116-c7f5-4004-b103-5dabbac4bd9e)
 ![8-1](https://github.com/user-attachments/assets/6c0174ac-45ff-4d94-a36f-b473f5935a11)
@@ -37,6 +37,79 @@ matplotlib\
 ![13](https://github.com/user-attachments/assets/58e9cb51-d04a-402f-8017-1fe89190ff69)
 ![16](https://github.com/user-attachments/assets/7e2b6833-a5bc-430a-b572-fc651f989afd)
 ![15](https://github.com/user-attachments/assets/8e8c60ea-8987-4254-9d1e-18ba2d47314d)
-![download](https://github.com/user-attachments/assets/2a55714e-ed91-4b95-b4aa-f9fb405cb387)
+![download](https://github.com/user-attachments/assets/2a55714e-ed91-4b95-b4aa-f9fb405cb387) 
+#### insights
+1- Most attacks happened in 2014
+
+2- Most attacks happened in middle east & north Africa(47978)
+
+attack ,south Asia (43191) attack
+
+3- Top 10 targets
+
+Civilians
+
+Patrol
+
+Soldiers
+
+Vehicle
+
+Checkpoint
+
+Officers
+
+Unit
+
+village
+
+military unit
+
+bus
+
+4- Top 10 attack group
+
+taliban
+
+islamic state of iraq and the levant (isil)
+
+shining path (sl)
+
+new people's army (npa)
+
+al-shabaab
+
+farabundo marti national liberation front (fmln)
+
+irish republican army (ira)
+
+revolutionary armed forces of colombia (farc)
+
+kurdistan workers' party (pkk)
+
+boko haram
+
+5- Most popular weapon type explosives ,firearms
+
+6- Most affected countries
+
+Iraq
+
+Pakistan
+
+India
+
+Afghanistan
+
+Colombia
+
+Philippines
+Peru
+
+united kingdom
+
+Turkey
+
+el salvador
 
 
