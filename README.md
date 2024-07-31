@@ -25,6 +25,7 @@ numpy\
 Pandas\
 seaborn\
 matplotlib\
+###charts\
 ![6-1](https://github.com/user-attachments/assets/3fe2b116-c7f5-4004-b103-5dabbac4bd9e)
 ![8-1](https://github.com/user-attachments/assets/6c0174ac-45ff-4d94-a36f-b473f5935a11)
 ![7](https://github.com/user-attachments/assets/4701d6db-c8bf-42f5-ba99-f5cbb4c45a78)
