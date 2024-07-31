@@ -18,7 +18,7 @@ Change datatypes\
 Change text columns in consistent fromat (make all text
 lower)\
 6- Rename columns\
-7-check If data contains duplicates\
+7-check If data contains duplicates
 ## Data analysis and visualization
 Libraries:\
 numpy\
