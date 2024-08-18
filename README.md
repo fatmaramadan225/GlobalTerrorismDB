@@ -39,13 +39,13 @@ matplotlib
 ![15](https://github.com/user-attachments/assets/8e8c60ea-8987-4254-9d1e-18ba2d47314d)
 ![download](https://github.com/user-attachments/assets/2a55714e-ed91-4b95-b4aa-f9fb405cb387) 
 #### insights
-1- Most attacks happened in 2014
+##### 1- Most attacks happened in 2014
 
-2- Most attacks happened in middle east & north Africa(47978)
+##### 2- Most attacks happened in middle east & north Africa(47978)
 
 attack ,south Asia (43191) attack
 
-3- Top 10 targets
+##### 3- Top 10 targets
 
 Civilians
 
@@ -67,7 +67,7 @@ military unit
 
 bus
 
-4- Top 10 attack group
+##### 4- Top 10 attack group
 
 taliban
 
@@ -89,9 +89,9 @@ kurdistan workers' party (pkk)
 
 boko haram
 
-5- Most popular weapon type explosives ,firearms
+##### 5- Most popular weapon type explosives ,firearms
 
-6- Most affected countries
+##### 6- Most affected countries
 
 Iraq
 
